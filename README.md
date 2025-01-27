@@ -78,16 +78,7 @@ The analysis is based on a dataset encompassing the following key features for v
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-- Jupyter Notebook
-- Necessary Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-### Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/strategic-aid-allocation.git
-   cd strategic-aid-allocation
+### Social links:
+1. Medium Blog post- https://medium.com/@parthpatel5340/strategic-aid-allocation-a-data-driven-approach-to-maximize-impact-c319f6e3b860
+2. Tableau dashboard- https://public.tableau.com/views/StrategicAidAllocationDashboard/Dasboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+3. Google Collab link- https://colab.research.google.com/drive/1kkM-f--hpP7kAOtM_cCIZhwID1CuFz1W?usp=sharing
